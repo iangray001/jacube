@@ -32,7 +32,7 @@ We designed the cube to be 3D printed in PLA plastic. The cube is composed of si
 
 ![The components of the JaCube](doc/cube3d.png)
 
-![SCAD showing the interior of the cube](doc/scad.jpg)
+![SCAD showing the interior of the cube](doc/scad.png)
 
 The SCAD code can be found in the repository under `/scad/`. The STL and gcode files are also available.
 
