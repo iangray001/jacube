@@ -5,22 +5,24 @@ This project was constructed for a leaving gift for [a colleague of ours](http:/
 ![The JaCube](doc/cube.jpg)
 
 ### Video
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=sX1Cc6-SJPA" target="_blank"><img src="http://img.youtube.com/vi/sX1Cc6-SJPA/0.jpg" 
+alt="The JaCube demonstration video" width="240" height="180" border="10" /></a>
 
 Here is an edited video of the cube in action. In the first part of the video the cube is 'happy' so it plays various animations and light patterns. Note that the cube was in a demonstration mode for the shooting of this video. Under normal use it only does anything every few hours. At the end I rotate the cube away from its preferred orientation and it gets upset.
 
 ### Images
 
-![Opening the JaCube](doc/1.jpg)
+![Opening the JaCube](doc/1.JPG)
 
 This shows how the cube is opened. The top face unscrews revealing a battery brace which holds a battery pack of 4 AA batteries in place.
 
-![A closer view inside](doc/2.jpg)
+![A closer view inside](doc/2.JPG)
 
-![Inside the JaCube](doc/3.jpg)
+![Inside the JaCube](doc/3.JPG)
 
 With the battery pack removed, almost all the internals are visible in this picture. The offset motor (for vibration) is glued to the top face, the circuit board to the bottom, and the piezo buzzer for sound output can be seen to the right. Sensing is provided by a 10 degrees of freedom (compass, barometer, and accelerometer) daughter board which is behind the Arduino.
 
-![The speaker is superglued to the case for resonance](doc/4.jpg)
+![The speaker is superglued to the case for resonance](doc/4.JPG)
 
 The speaker is superglued to the case for resonance, and the centre of each face contains an RGB LED.
 
